@@ -28,7 +28,7 @@ public class JSONFormatter {
       //whatever else you need
   }
   
-  @GetMapping("/JSONFormatter")
+  @GetMapping("/")
     String loadPage(Model model) {
     System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 
